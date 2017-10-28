@@ -1,5 +1,6 @@
 # About the animal - Alligator
-(Alligator in Wikipedia)[https://en.wikipedia.org/wiki/Alligator]
+
+[Alligator in Wikipedia](https://en.wikipedia.org/wiki/Alligator)
 
 ## Important to know
 1. An average adult American alligator's weight and length is 360 kg and 4 m
@@ -14,7 +15,7 @@ Alligators are native to only the:
 
 ![Image of Alligator](/images/alligator.jpg)
 
-English Name | Hebrow Name
+English Name | Hebrew Name
 ---|---
 Alligator mississippiensis | אליגטור אמריקני
 Alligator sinensis | אליגטור סיני 
